@@ -1,0 +1,571 @@
+2020-01-27 10:53:05,831 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - The server is not operational.
+
+2020-01-27 10:53:06,776 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-01-27 10:53:06,777 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-01-27 10:53:06,947 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-01-27 10:54:06,970 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:12:46,941 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - The server is not operational.
+
+2020-01-27 13:12:47,226 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-01-27 13:12:47,227 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-01-27 13:12:47,298 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-01-27 13:13:47,310 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:14:47,313 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-01-27 13:14:47,314 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:14:47,331 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-01-27 13:14:47,331 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\GitHubToscaCIExample\results.xml<
+2020-01-27 13:14:47,333 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-01-27 13:14:47,333 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-01-27 13:32:26,287 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - The server is not operational.
+
+2020-01-27 13:32:26,576 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-01-27 13:32:26,578 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-01-27 13:32:26,630 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-01-27 13:33:26,636 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-01-27 13:33:26,638 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:33:26,650 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-01-27 13:33:26,650 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\GitHubToscaCIExample\results.xml<
+2020-01-27 13:33:26,652 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-01-27 13:33:26,652 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-01-27 13:41:58,226 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - The server is not operational.
+
+2020-01-27 13:41:58,523 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-01-27 13:41:58,526 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-01-27 13:41:58,580 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-01-27 13:42:58,587 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:43:58,590 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:44:58,594 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:45:58,704 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:45:58,705 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Boolean' with result 'Error'. (UniqueId: 39ec5e42-f218-7f93-3778-fafee0e58765, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Number' with result 'Passed'. (UniqueId: 39ec5e42-f219-8d03-a111-c9acc97f4c1e, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'String' with result 'Passed'. (UniqueId: 39ec5e42-f21a-12b8-0d34-07ba6003d96c, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Multiple values' with result 'Error'. (UniqueId: 39ec5e42-f21a-d8c7-3072-15ca038c612b, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Full array' with result 'Error'. (UniqueId: 39ec5e42-f1bf-df21-0bbf-800b13680469, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Empty array' with result 'Error'. (UniqueId: 39ec5e42-f20f-82ba-221c-de4ab24cffa9, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Nested objects inside an array' with result 'Passed'. (UniqueId: 39ec5e42-f210-7d94-00d9-bf08254d8c6c, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Primitive values inside an array root' with result 'Passed'. (UniqueId: 39ec5e42-f211-e155-1ea6-9be18768e21d, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,735 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Object' with result 'Error'. (UniqueId: 39ec5e42-f214-e8cd-684c-6d05db98a0c7, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,735 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Verify existence using Select only' with result 'Passed'. (UniqueId: 39ec5e42-f212-c0c8-f335-7447bd1e2af7, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,735 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Verify existence using Exists' with result 'Passed'. (UniqueId: 39ec5e42-f213-5602-686a-38b975fe42da, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,735 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Verify non-existence' with result 'Passed'. (UniqueId: 39ec5e42-f213-c3f7-e55b-94ada442d538, Item id: 16a41635-f382-4cf3-88ed-d1e2eaa4c947, Event id: c97e5b3e-b818-4934-984b-4af28dfd2eab, Event index: 0)
+2020-01-27 13:46:58,735 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:46:58,746 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:46:58,748 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-01-27 13:46:58,748 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\GitHubToscaCIExample\results.xml<
+2020-01-27 13:46:58,750 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Failed
+2020-01-27 13:46:58,750 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Some parts of execution may have failed, Client will exit with >-1<
+2020-01-27 13:47:55,424 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - The server is not operational.
+
+2020-01-27 13:47:55,735 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-01-27 13:47:55,737 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-01-27 13:47:55,791 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-01-27 13:48:55,825 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:48:55,827 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:49:55,848 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Boolean' with result 'Error'. (UniqueId: 39ec5e42-f218-7f93-3778-fafee0e58765, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Number' with result 'Passed'. (UniqueId: 39ec5e42-f219-8d03-a111-c9acc97f4c1e, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'String' with result 'Passed'. (UniqueId: 39ec5e42-f21a-12b8-0d34-07ba6003d96c, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Multiple values' with result 'Error'. (UniqueId: 39ec5e42-f21a-d8c7-3072-15ca038c612b, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Full array' with result 'Error'. (UniqueId: 39ec5e42-f1bf-df21-0bbf-800b13680469, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Empty array' with result 'Error'. (UniqueId: 39ec5e42-f20f-82ba-221c-de4ab24cffa9, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Nested objects inside an array' with result 'Passed'. (UniqueId: 39ec5e42-f210-7d94-00d9-bf08254d8c6c, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Primitive values inside an array root' with result 'Passed'. (UniqueId: 39ec5e42-f211-e155-1ea6-9be18768e21d, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Object' with result 'Error'. (UniqueId: 39ec5e42-f214-e8cd-684c-6d05db98a0c7, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Verify existence using Select only' with result 'Passed'. (UniqueId: 39ec5e42-f212-c0c8-f335-7447bd1e2af7, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Verify existence using Exists' with result 'Passed'. (UniqueId: 39ec5e42-f213-5602-686a-38b975fe42da, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Finished ExecutionEntry 'Verify non-existence' with result 'Passed'. (UniqueId: 39ec5e42-f213-c3f7-e55b-94ada442d538, Item id: 9db34e98-4957-4b11-acf6-0ee62516b9af, Event id: 32eaeb7e-b659-45aa-871c-6fc6cbce4073, Event index: 0)
+2020-01-27 13:50:55,853 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:50:55,855 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-01-27 13:50:55,857 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-01-27 13:50:55,857 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\GitHubToscaCIExample\results.xml<
+2020-01-27 13:50:55,859 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Failed
+2020-01-27 13:50:55,859 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Some parts of execution may have failed, Client will exit with >-1<
+2020-02-06 09:19:51,114 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-06 09:19:51,126 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-06 09:19:51,126 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-06 09:19:51,138 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-06 09:19:56,883 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\TOSCA_PROJECTS\TOSCA_Workspaces\MainCommonRepository\MainCommonRepository.tws
+2020-02-06 09:20:09,776 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-06 09:20:23,807 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-06 09:20:25,722 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: JSON
+2020-02-06 09:20:25,780 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Checkout on OwnedItem: JSON, Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON
+2020-02-06 09:20:25,780 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:20:37,567 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:20:43,425 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:21:05,205 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:21:11,548 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:21:25,265 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:21:31,284 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:21:43,642 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:21:49,992 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:22:06,895 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:22:13,867 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:22:24,729 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:22:32,639 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:22:45,986 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:22:52,780 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:23:11,651 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:23:18,692 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 09:23:30,866 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 09:24:14,723 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.CiDispatcher - http://localhost:8732/TOSCARemoteExecutionService
+2020-02-06 09:24:14,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.AbstractRemoteDispatcher - Starting remote execution
+2020-02-06 09:24:14,734 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.AbstractRemoteDispatcher - Configuration File Path:
+2020-02-06 09:24:18,965 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: EndpointNotFoundException occured
+There was no endpoint listening at http://localhost:8732/TOSCARemoteExecutionService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at TOSCAContinuousIntegration.TOSCACIClient.ServiceReference1.IRemoteExecutionService.ExecuteWithoutConfig(String usernameHash, String passwordHash, String resultType)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.CiDispatcher.Execute()
+Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+No connection could be made because the target machine actively refused it 127.0.0.1:8732
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.CiDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-06 10:26:59,405 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.CiDispatcher - http://tri-nb1145.tricentis.com:8732/TOSCARemoteExecutionService
+2020-02-06 10:26:59,418 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.AbstractRemoteDispatcher - Starting remote execution
+2020-02-06 10:26:59,418 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.AbstractRemoteDispatcher - Configuration File Path:
+2020-02-06 10:27:11,658 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: EndpointNotFoundException occured
+There was no endpoint listening at http://tri-nb1145.tricentis.com:8732/TOSCARemoteExecutionService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at TOSCAContinuousIntegration.TOSCACIClient.ServiceReference1.IRemoteExecutionService.ExecuteWithoutConfig(String usernameHash, String passwordHash, String resultType)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.CiDispatcher.Execute()
+Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+No connection could be made because the target machine actively refused it 192.168.1.229:8732
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.CiDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-06 10:27:48,213 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-06 10:27:48,225 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-06 10:27:48,225 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-06 10:27:48,240 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-06 10:27:53,156 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\TOSCA_PROJECTS\TOSCA_Workspaces\MainCommonRepository\MainCommonRepository.tws
+2020-02-06 10:28:06,103 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-06 10:28:19,065 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-06 10:28:21,063 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: JSON
+2020-02-06 10:28:21,126 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Checkout on OwnedItem: JSON, Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON
+2020-02-06 10:28:21,127 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:28:39,755 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:28:46,554 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:28:57,203 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:29:03,436 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:29:19,579 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:29:26,642 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:29:37,841 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:29:44,648 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:30:03,775 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:30:09,852 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:30:20,555 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:30:26,143 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:30:37,238 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:30:43,153 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:30:55,949 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:31:03,122 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:31:21,509 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:31:27,441 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:31:40,536 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:31:48,374 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:31:59,984 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:32:07,856 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:32:34,339 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:32:42,188 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:32:57,424 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:33:03,729 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-06 10:33:20,670 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-06 10:33:44,248 [1] ERROR TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController - OwnedItem 'JSON' could not be checked out within '300000ms'.
+   at Tricentis.TCAPIHelper.CheckoutHelper.TryCheckoutWithTimeout(OwnedItem targetOwnedItem, TCWorkspace workspace, Int32 maxWaitForCheckout)
+   at TOSCAContinuousIntegration.TOSCACIExecution.AbstractCITestExecutor.CheckoutFolder(TCFolder folder, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.CreateCIExecutionListOrTestMandate(TCWorkspace workspace, TCFolder ciBuildRootFolder)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.ExecuteCITest(String resultType, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+2020-02-06 10:33:44,249 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-06 10:33:50,372 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: CIException occured
+OwnedItem 'JSON' could not be checked out within '300000ms'.
+   at Tricentis.TCAPIHelper.CheckoutHelper.TryCheckoutWithTimeout(OwnedItem targetOwnedItem, TCWorkspace workspace, Int32 maxWaitForCheckout)
+   at TOSCAContinuousIntegration.TOSCACIExecution.AbstractCITestExecutor.CheckoutFolder(TCFolder folder, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.CreateCIExecutionListOrTestMandate(TCWorkspace workspace, TCFolder ciBuildRootFolder)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.ExecuteCITest(String resultType, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTestWithXmlConfiguration(String resultType, XmlDocument testConfiguration)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionManager.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-10 08:28:30,471 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-10 08:28:30,480 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-10 08:28:30,480 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-10 08:28:30,507 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-10 08:28:41,557 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\TOSCA_PROJECTS\TOSCA_Workspaces\MainCommonRepository\MainCommonRepository.tws
+2020-02-10 08:28:54,564 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-10 08:29:07,535 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-10 08:29:13,942 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: JSON
+2020-02-10 08:29:14,001 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Checkout on OwnedItem: JSON, Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON
+2020-02-10 08:29:14,001 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:29:35,263 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:29:41,828 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:30:00,956 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:30:06,680 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:30:18,777 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:30:25,697 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:30:39,239 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:30:47,103 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:31:03,080 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:31:08,781 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:31:23,214 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:31:29,379 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:31:41,024 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:31:48,883 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:32:09,297 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:32:16,461 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:32:29,080 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:32:34,389 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:32:47,623 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:32:53,086 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:33:06,948 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:33:14,316 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:33:39,973 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:33:45,727 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:34:07,003 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:34:12,667 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - TCFolder '/Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON' does not need to be included for synchronization
+2020-02-10 08:34:32,049 [1] INFO  Tricentis.TCAPIHelper.CheckoutHelper - Could not checkout OwnedItem 'JSON'. (Nodepath: /Execution/ExecutionLists/Standard module examples/TBox XEngines/JSON). Retrying in a few seconds unless timeout is reached.
+2020-02-10 08:34:44,384 [1] ERROR TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController - OwnedItem 'JSON' could not be checked out within '300000ms'.
+   at Tricentis.TCAPIHelper.CheckoutHelper.TryCheckoutWithTimeout(OwnedItem targetOwnedItem, TCWorkspace workspace, Int32 maxWaitForCheckout)
+   at TOSCAContinuousIntegration.TOSCACIExecution.AbstractCITestExecutor.CheckoutFolder(TCFolder folder, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.CreateCIExecutionListOrTestMandate(TCWorkspace workspace, TCFolder ciBuildRootFolder)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.ExecuteCITest(String resultType, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+2020-02-10 08:34:44,384 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-10 08:34:56,976 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: CIException occured
+OwnedItem 'JSON' could not be checked out within '300000ms'.
+   at Tricentis.TCAPIHelper.CheckoutHelper.TryCheckoutWithTimeout(OwnedItem targetOwnedItem, TCWorkspace workspace, Int32 maxWaitForCheckout)
+   at TOSCAContinuousIntegration.TOSCACIExecution.AbstractCITestExecutor.CheckoutFolder(TCFolder folder, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.CreateCIExecutionListOrTestMandate(TCWorkspace workspace, TCFolder ciBuildRootFolder)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.ExecuteCITest(String resultType, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTestWithXmlConfiguration(String resultType, XmlDocument testConfiguration)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionManager.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-11 09:18:22,185 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-11 09:18:22,195 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-11 09:18:22,195 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-11 09:18:22,208 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-11 09:18:27,326 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-11 09:18:29,731 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-11 09:18:29,739 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-11 09:18:29,835 [1] ERROR TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController - No ContinuousIntegrationBuildRootFolder found in project! Please flag at least one ExecutionListFolder with the custom property 'ContinuousIntegrationBuildRootFolder' and the value 'True', or define a BuildRootFolder within you 'TestConfig.xml'.
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.GetCIBuildRootFolder(TCProject project)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.ExecuteCITest(String resultType, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+2020-02-11 09:18:29,837 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-11 09:18:34,958 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: CIException occured
+No ContinuousIntegrationBuildRootFolder found in project! Please flag at least one ExecutionListFolder with the custom property 'ContinuousIntegrationBuildRootFolder' and the value 'True', or define a BuildRootFolder within you 'TestConfig.xml'.
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.GetCIBuildRootFolder(TCProject project)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.ExecuteCITest(String resultType, TCWorkspace workspace)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTestWithXmlConfiguration(String resultType, XmlDocument testConfiguration)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionManager.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-11 09:26:28,194 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-11 09:26:28,205 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-11 09:26:28,205 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-11 09:26:28,218 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-11 09:26:33,658 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-11 09:26:36,029 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-11 09:26:36,036 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-11 09:26:36,149 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: ExecutionLists
+2020-02-11 09:26:50,785 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Creating junit test result...
+2020-02-11 09:26:50,975 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-11 09:26:57,993 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Test execution has been finished.
+2020-02-11 09:26:57,993 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Users\keimc\Documents\Result\result1.xml<
+2020-02-11 09:28:15,481 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-11 09:28:15,492 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-11 09:28:15,492 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-11 09:28:15,504 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-11 09:28:20,586 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-11 09:28:23,046 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-11 09:28:23,054 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-11 09:28:23,155 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: ExecutionLists
+2020-02-11 09:28:40,944 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Creating junit test result...
+2020-02-11 09:28:41,113 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-11 09:28:48,324 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Test execution has been finished.
+2020-02-11 09:28:48,325 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Users\keimc\Documents\Result\result1.xml<
+2020-02-12 08:05:14,868 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-12 08:05:14,880 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-12 08:05:14,880 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-12 08:05:14,912 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-12 08:05:28,699 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-12 08:05:31,302 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-12 08:05:31,310 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-12 08:05:31,442 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: ExecutionLists
+2020-02-12 08:05:51,101 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Creating junit test result...
+2020-02-12 08:05:51,288 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-12 08:05:59,218 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Test execution has been finished.
+2020-02-12 08:05:59,218 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Users\keimc\Documents\Result\result1.xml<
+2020-02-12 08:29:51,834 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-12 08:29:51,846 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-12 08:29:51,846 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-12 08:29:51,861 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-12 08:29:56,363 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-12 08:29:58,794 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-12 08:29:58,801 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-12 08:29:58,903 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: ExecutionLists
+2020-02-12 08:30:17,018 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Creating junit test result...
+2020-02-12 08:30:17,189 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-12 08:30:24,278 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Test execution has been finished.
+2020-02-12 08:30:24,279 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Users\keimc\Documents\Result\result1.xml<
+2020-02-12 09:34:16,450 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-12 09:34:16,461 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-12 09:34:16,461 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-12 09:34:16,475 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-12 09:34:21,099 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-12 09:34:23,638 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-12 09:34:23,646 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-12 09:34:23,785 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: ExecutionLists
+2020-02-12 09:34:42,016 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Creating junit test result...
+2020-02-12 09:34:42,188 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-12 09:34:49,666 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Test execution has been finished.
+2020-02-12 09:34:49,666 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Users\keimc\Documents\Result\result1.xml<
+2020-02-12 11:00:35,236 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 11:00:38,369 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: There was a communication problem!
+There was no endpoint listening at http://servername/DistributionServerService/ManagerService.svc that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at TOSCAContinuousIntegration.TOSCACIClient.ManagerService.IManagerService.Register(Guid ciClientId, String ldapString)
+   at TOSCAContinuousIntegration.TOSCACIClient.ManagerService.ManagerServiceClient.Register(Guid ciClientId, String ldapString)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.RegisterAtServer()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.Connect()
+The remote name could not be resolved: 'servername'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.Connect()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-12 11:06:12,318 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 11:06:15,270 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: There was a communication problem!
+There was no endpoint listening at http://servername/DistributionServerService/ManagerService.svc that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at TOSCAContinuousIntegration.TOSCACIClient.ManagerService.IManagerService.Register(Guid ciClientId, String ldapString)
+   at TOSCAContinuousIntegration.TOSCACIClient.ManagerService.ManagerServiceClient.Register(Guid ciClientId, String ldapString)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.RegisterAtServer()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.Connect()
+The remote name could not be resolved: 'servername'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.Connect()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-12 11:16:15,196 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 11:16:15,499 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-02-12 11:16:15,500 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-02-12 11:16:15,531 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-02-12 11:17:15,544 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-02-12 11:18:15,550 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-02-12 11:18:15,551 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-02-12 11:18:15,564 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-02-12 11:18:15,564 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\WindowsExecutable\results.xml<
+2020-02-12 11:18:15,566 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-02-12 11:18:15,566 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-02-12 11:46:23,169 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 11:46:23,437 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-02-12 11:46:23,438 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-02-12 11:46:23,460 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-02-12 11:47:23,468 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-02-12 11:47:23,469 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-02-12 11:47:23,480 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-02-12 11:47:23,480 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\WindowsExecutable\results.xml<
+2020-02-12 11:47:23,482 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-02-12 11:47:23,482 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-02-12 11:55:04,585 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-12 11:55:04,599 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-12 11:55:04,599 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-12 11:55:04,612 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-12 11:55:09,412 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-12 11:55:16,988 [1] ERROR TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController - Workspace locked by another process
+Inner Exception: 
+Tricentis.TCCore.Persistency.Repository.UnableToLockRepositoryException: Workspace locked by another process 'TRI-NB1145.14576:keimc'
+   at Tricentis.TCCore.Base.Workspace.AddOrWaitForLock(TimeSpan maxTimeToWait)
+   at Tricentis.TCCore.Base.Workspace.LockWorkspaceExclusive(TimeSpan maxTimeToWait)
+   at Tricentis.TCAPINativeConnector.Objects.TCAPINativeWorkspace..ctor(String twsPath, String loginName, String loginPassword, Int32 logLevel, TCConnectionBase myApiConnection)
+
+Server stack trace: 
+   at Tricentis.TCAPINativeConnector.Objects.TCAPINativeWorkspace..ctor(String twsPath, String loginName, String loginPassword, Int32 logLevel, TCConnectionBase myApiConnection)
+   at Tricentis.TCAPINativeConnector.TCAPINativeConnection.InternalOpenWorkspace(String twsPath, String loginUser, String loginPassword, Int32 logLevel, TCConnectionBase myApiConnection)
+   at Tricentis.TCAPIObjects.TCConnectionBase.OpenWorkspace(String twsPath, String loginUser, String loginPassword, Int32 logLevel)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at Tricentis.TCAPI.TCAPI.OpenWorkspace(String twsPath, String loginName, String loginPassword, Int32 logLevel)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.InitializeAPIAndOpenWorkSpace()
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+2020-02-12 11:55:16,988 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-12 11:55:22,600 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: TCApiException occured
+Workspace locked by another process
+Inner Exception: 
+Tricentis.TCCore.Persistency.Repository.UnableToLockRepositoryException: Workspace locked by another process 'TRI-NB1145.14576:keimc'
+   at Tricentis.TCCore.Base.Workspace.AddOrWaitForLock(TimeSpan maxTimeToWait)
+   at Tricentis.TCCore.Base.Workspace.LockWorkspaceExclusive(TimeSpan maxTimeToWait)
+   at Tricentis.TCAPINativeConnector.Objects.TCAPINativeWorkspace..ctor(String twsPath, String loginName, String loginPassword, Int32 logLevel, TCConnectionBase myApiConnection)
+
+Server stack trace: 
+   at Tricentis.TCAPINativeConnector.Objects.TCAPINativeWorkspace..ctor(String twsPath, String loginName, String loginPassword, Int32 logLevel, TCConnectionBase myApiConnection)
+   at Tricentis.TCAPINativeConnector.TCAPINativeConnection.InternalOpenWorkspace(String twsPath, String loginUser, String loginPassword, Int32 logLevel, TCConnectionBase myApiConnection)
+   at Tricentis.TCAPIObjects.TCConnectionBase.OpenWorkspace(String twsPath, String loginUser, String loginPassword, Int32 logLevel)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at Tricentis.TCAPI.TCAPI.OpenWorkspace(String twsPath, String loginName, String loginPassword, Int32 logLevel)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor.InitializeAPIAndOpenWorkSpace()
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteViaAPI(String resultType, AbstractCITestConfigurationRootNode testConfigurationRoot, AbstractCITestExecutor executor)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTestWithXmlConfiguration(String resultType, XmlDocument testConfiguration)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutionController.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionManager.ExecuteTest(String resultType)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher.Execute()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)
+2020-02-12 11:55:53,834 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher -  Client started
+2020-02-12 11:55:53,845 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Starting local execution
+2020-02-12 11:55:53,845 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Configuration File Path:
+2020-02-12 11:55:53,858 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Getting license...
+2020-02-12 11:55:58,759 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Opening workspace: C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws
+2020-02-12 11:56:01,257 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Executing CI Test...
+2020-02-12 11:56:01,268 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Searching for BuildRootFolder...
+2020-02-12 11:56:01,372 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Single ContinuousIntegrationBuildRootFolder found: ExecutionLists
+2020-02-12 11:56:19,989 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Creating junit test result...
+2020-02-12 11:56:20,163 [1] INFO  TOSCAContinuousIntegration.TOSCACIExecution.CITestExecutor - Closing workspace and restoring license...
+2020-02-12 11:56:27,363 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.LocalDispatcher - Test execution has been finished.
+2020-02-12 11:56:27,364 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Users\keimc\Documents\Result\result1.xml<
+2020-02-12 14:15:03,309 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 14:15:03,610 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-02-12 14:15:03,612 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-02-12 14:15:03,642 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-02-12 14:16:03,660 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-02-12 14:16:03,662 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-02-12 14:16:03,676 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-02-12 14:16:03,676 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\WindowsExecutable\results.xml<
+2020-02-12 14:16:03,678 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-02-12 14:16:03,678 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-02-12 14:24:22,781 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 14:24:23,058 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-02-12 14:24:23,059 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-02-12 14:24:23,083 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-02-12 14:25:23,089 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-02-12 14:26:23,094 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-02-12 14:26:23,095 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-02-12 14:26:23,107 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-02-12 14:26:23,107 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\WindowsExecutable\results.xml<
+2020-02-12 14:26:23,109 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-02-12 14:26:23,109 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-02-12 14:32:18,446 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 14:32:18,716 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-02-12 14:32:18,717 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-02-12 14:32:18,740 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-02-12 14:33:18,745 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is not yet finished.
+2020-02-12 14:34:18,748 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-02-12 14:34:18,749 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-02-12 14:34:18,762 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-02-12 14:34:18,762 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\WindowsExecutable\results.xml<
+2020-02-12 14:34:18,764 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-02-12 14:34:18,764 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-02-12 14:42:01,777 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Object reference not set to an instance of an object.
+2020-02-12 14:42:02,057 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - CI Client was registered successfully on DEX server.
+2020-02-12 14:42:02,059 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - http://tri-nb1145.tricentis.com:8082/DistributionServerService/ManagerService.svc
+2020-02-12 14:42:02,082 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Starting to poll Dex server for results. Timeout: 36000000. Interval: 60000
+2020-02-12 14:43:02,089 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Polled Dex Server. Execution is finished.
+2020-02-12 14:43:02,090 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Creating junit test result...
+2020-02-12 14:43:02,102 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher - Test execution has been finished.
+2020-02-12 14:43:02,102 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - Result was printed to >C:\Program Files (x86)\Jenkins\workspace\WindowsExecutable\results.xml<
+2020-02-12 14:43:02,104 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Utils.Util - Target node with path >testResult/executionState<  found! value = Passed
+2020-02-12 14:43:02,104 [1] INFO  TOSCAContinuousIntegration.TOSCACIClient.Program - All parts of execution have passed, Client will exit with >0<
+2020-03-10 15:50:56,135 [1] ERROR TOSCAContinuousIntegration.TOSCACIClient.Program - Main: There was a communication problem!
+There was no endpoint listening at http://localhost/DistributionServerService/ManagerService.svc that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at TOSCAContinuousIntegration.TOSCACIClient.ManagerService.IManagerService.Register(Guid ciClientId, String ldapString)
+   at TOSCAContinuousIntegration.TOSCACIClient.ManagerService.ManagerServiceClient.Register(Guid ciClientId, String ldapString)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.RegisterAtServer()
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.Connect()
+The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIClient.Dispatching.DexRemoteDispatcher.Connect()
+   at TOSCAContinuousIntegration.TOSCACIClient.Program.Main(String[] args)

@@ -1,0 +1,194 @@
+2021-08-18 10:43:59,969 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2021-08-18 10:44:01,198 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2021-08-18 10:44:01,204 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2021-08-18 10:44:01,204 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://localhost:8732/TOSCARemoteExecutionService/
+2021-08-18 10:44:01,206 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2021-08-18 10:44:01,206 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2021-08-18 10:44:01,207 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2021-08-18 10:44:01,207 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2021-08-18 10:44:01,207 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2021-08-18 10:44:01,207 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
+2021-08-18 10:48:04,541 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Void StartService() Recovery did not work. Closing Service.
+2021-08-18 10:48:32,790 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2021-08-18 10:48:32,940 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2021-08-18 10:48:32,946 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2021-08-18 10:48:32,947 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://169.254.133.59:8732/TOSCARemoteExecutionService/
+2021-08-18 10:48:32,947 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2021-08-18 10:48:32,947 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2021-08-18 10:48:32,948 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2021-08-18 10:48:32,948 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2021-08-18 10:48:32,948 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2021-08-18 10:48:32,948 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
+2021-08-18 10:50:08,905 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Void StartService() Recovery did not work. Closing Service.
+2021-08-18 10:50:18,066 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2021-08-18 10:50:18,201 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:18,202 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:18,226 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:20,230 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 2. atempt.
+2021-08-18 10:50:20,235 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:20,235 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:20,235 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:22,238 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 3. atempt.
+2021-08-18 10:50:22,239 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:22,239 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:22,240 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:24,243 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 4. atempt.
+2021-08-18 10:50:24,245 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:24,245 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:24,246 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:26,251 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 5. atempt.
+2021-08-18 10:50:26,252 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:26,253 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:26,254 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:28,256 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 6. atempt.
+2021-08-18 10:50:28,257 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:28,257 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:28,258 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:30,262 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 7. atempt.
+2021-08-18 10:50:30,263 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:30,264 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:30,264 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:32,268 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 8. atempt.
+2021-08-18 10:50:32,271 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:32,271 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:32,272 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:34,275 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 9. atempt.
+2021-08-18 10:50:34,278 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:34,279 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:34,280 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:36,285 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 10. atempt.
+2021-08-18 10:50:36,287 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:50:36,288 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:50:36,288 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:50:36,291 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Void StartService() Recovery did not work. Closing Service.
+2021-08-18 10:54:14,770 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2021-08-18 10:54:14,867 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:14,868 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:14,882 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:16,884 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 2. atempt.
+2021-08-18 10:54:16,886 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:16,886 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:16,887 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:18,888 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 3. atempt.
+2021-08-18 10:54:18,889 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:18,889 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:18,890 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:20,893 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 4. atempt.
+2021-08-18 10:54:20,895 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:20,895 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:20,896 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:22,901 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 5. atempt.
+2021-08-18 10:54:22,904 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:22,904 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:22,905 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:24,910 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 6. atempt.
+2021-08-18 10:54:24,911 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:24,912 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:24,912 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:26,915 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 7. atempt.
+2021-08-18 10:54:26,917 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost in faulted state! 
+2021-08-18 10:54:26,917 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost will be restarted...
+2021-08-18 10:54:26,918 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - The HttpGetEnabled property of ServiceMetadataBehavior is set to true and the HttpGetUrl property is a relative address, but there is no http base address.  Either supply an http base address or set HttpGetUrl to an absolute address.
+   at System.ServiceModel.Description.ServiceMetadataBehavior.CreateHttpGetEndpoints(ServiceDescription description, ServiceHostBase host, ServiceMetadataExtension mex)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program.StartServiceInternal()
+2021-08-18 10:54:28,921 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 8. atempt.
